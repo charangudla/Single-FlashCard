@@ -4,7 +4,7 @@ The Simple Flashcard plugin for WordPress allows you to easily create and embed 
 
 ## Features
 
-- **Interactive Flashcards**: Click to flip between the question and answer.
+- **Interactive Flashcards**: Hover to flip between the question and answer.
 - **Customizable Colors**: Set colors for both the front and back of the flashcards.
 - **Shortcode Support**: Easily embed flashcards using a simple shortcode.
 
